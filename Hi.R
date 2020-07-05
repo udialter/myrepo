@@ -1,0 +1,16 @@
+#---
+#title: "Hello"
+#author: "Udi Alter"
+#date: "05/07/2020"
+#output: github_document
+#---
+
+#I am listening to Sublime
+
+#+r
+
+x <- 2*3+7
+y <- x/x^2
+y
+
+
